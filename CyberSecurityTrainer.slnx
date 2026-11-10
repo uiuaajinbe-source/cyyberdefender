@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CyberSecurityTrainer/CyberSecurityTrainer.vcxproj" Id="4a9fcdd0-7a91-4a7c-9802-12646bcf0f4d" />
+</Solution>
